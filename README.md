@@ -116,3 +116,16 @@ Build a **dynamic HR dashboard** that:
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/Chavansatyam1/HR-Analytics-Dashboard.git
+
+   ## 📧 **Contact**
+
+👨‍💻 **Satyam Chavan**  
+🎓 BE Graduate '25 | Aspiring Data Analyst  
+📩 [chavansatyam9696@gmail.com](mailto:chavansatyam9696@gmail.com)  
+🌐 [GitHub Profile](https://github.com/Chavansatyam1)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/satyam-chavan-227b2b285/)  
+
+---
+
+⭐ **If you found this project helpful, don’t forget to star the repo!**
+
