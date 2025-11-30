@@ -7,7 +7,6 @@ This project includes data cleaning, modeling, visualization, and HR insights ba
 
 ## 🖼️ **Dashboard Preview**
 
-
 <img width="1276" height="694" alt="Screenshot 2025-11-30 160054" src="https://github.com/user-attachments/assets/3d1da9f8-7d4d-40d2-ad23-424f2a607e95" />
 
 ---
@@ -114,18 +113,6 @@ Build a **dynamic HR dashboard** that:
 ## ⚙️ **How to Use**
 
 1. Clone or download the repository:
+
    ```bash
    git clone https://github.com/Chavansatyam1/HR-Analytics-Dashboard.git
-
-   ## 📧 **Contact**
-
-👨‍💻 **Satyam Chavan**  
-🎓 BE Graduate '25 | Aspiring Data Analyst  
-📩 [chavansatyam9696@gmail.com](mailto:chavansatyam9696@gmail.com)  
-🌐 [GitHub Profile](https://github.com/Chavansatyam1)  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/satyam-chavan-227b2b285/)  
-
----
-
-⭐ **If you found this project helpful, don’t forget to star the repo!**
-
